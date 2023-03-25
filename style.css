@@ -1,0 +1,9 @@
+.cardHold{
+    display: flex;
+}
+.card{
+    margin: 15px;
+}
+.mb-3{
+    padding: 15px;
+}
